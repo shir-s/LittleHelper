@@ -54,7 +54,7 @@ Omri Benbenisty
 
 ---
 
-## 🎓 About the Project
+## About the Project
 
 This game was created as part of the **Game Lab** course —  
 a collaboration between the **Bezalel Academy of Arts and Design**  
