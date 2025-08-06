@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c0f32c1bd9bd942801ac25b42dd079, type: 3}
+  m_Name: Pickles
+  m_EditorClassIdentifier: 
+  itemName: Pickles
+  icon: {fileID: 0}
+  prefab: {fileID: 8231752721599383418, guid: 0eb4505055aa820408d7afdbcdfc3888, type: 3}
+  roomType: 0
+  DeliveryPosition: {x: 0, y: 0, z: 0}

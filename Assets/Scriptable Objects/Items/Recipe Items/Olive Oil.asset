@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c0f32c1bd9bd942801ac25b42dd079, type: 3}
+  m_Name: Olive Oil
+  m_EditorClassIdentifier: 
+  itemName: Olive Oil
+  icon: {fileID: 0}
+  prefab: {fileID: 6126163920862144351, guid: c0cec45082a718a4f9de1ace5c093be2, type: 3}
+  roomType: 0
+  deliveryPosition: {x: 0.868, y: -4.46, z: 0}
+  scale: {x: 0.24, y: 0.24, z: 0.24}
+  rotation: {x: 0, y: 0, z: 0, w: 0}

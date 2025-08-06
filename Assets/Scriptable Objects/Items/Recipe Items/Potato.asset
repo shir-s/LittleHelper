@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c0f32c1bd9bd942801ac25b42dd079, type: 3}
+  m_Name: Potato
+  m_EditorClassIdentifier: 
+  itemName: Potato
+  icon: {fileID: 0}
+  prefab: {fileID: 5099568906777854915, guid: 12a3d2b7937dae841a94a3814e25c621, type: 3}
+  roomType: 2
+  deliveryPosition: {x: 1.252, y: -5.188, z: 0}
+  scale: {x: 0.2, y: 0.2, z: 0.2}
+  rotation: {x: 0, y: 0, z: 0, w: 1}

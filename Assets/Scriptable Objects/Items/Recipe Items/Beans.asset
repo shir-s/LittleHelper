@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c0f32c1bd9bd942801ac25b42dd079, type: 3}
+  m_Name: Beans
+  m_EditorClassIdentifier: 
+  itemName: Beans
+  icon: {fileID: 0}
+  prefab: {fileID: 8726432328519932769, guid: f9b665a14abea3a44bd0b58c860434d1, type: 3}
+  roomType: 0
+  deliveryPosition: {x: -3.612, y: -4.612, z: 0}
+  scale: {x: 0.24, y: 0.24, z: 0.24}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
