@@ -1,3 +1,5 @@
+![Little Helper Banner](banner.jpg)
+
 # 🦊 Little Helper
 
 **You're a tiny fox on a big mission — help Grandma cook her famous soup.**
